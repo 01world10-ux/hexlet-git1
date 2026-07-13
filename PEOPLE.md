@@ -1,2 +1,0 @@
-Haskell Curry
-eee boy
